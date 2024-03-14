@@ -189,3 +189,17 @@
         }
     }
 }
+
+@media screen and (max-width:998px) {
+    .APP{
+        .homeWrap{
+            .Upcoming_upMovieWrap{
+                .Upcoming_upInfo{
+                    img{
+                        bottom: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
